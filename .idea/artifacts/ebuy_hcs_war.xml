@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ebuy.hcs:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ebuy.hcs.war">
+      <element id="artifact" artifact-name="ebuy.hcs:war exploded" />
+    </root>
+  </artifact>
+</component>
